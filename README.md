@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3vast8r
-- 👀 I’m interested in Hacking, Programing and AI Work
-- 🌱 I’m currently learning Maschine Learning for penatration testing
+- 👀 I’m interested in AI, Programing and Pentesting.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on a fully working AI that can use tools to effectivly achive a security goal
 - 📫 How to reach me please only reach me via discord D3vast8r#8176 or my site at d3vast8r.xyz
 
